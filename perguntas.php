@@ -1,6 +1,6 @@
 <?php
 
-$pergunta[1]="pregunta 1?";
+$pergunta[1]="Prueba jajaja ?";
 $pergunta[2]="pregunta 2?";
 $pergunta[3]="pregunta 3?";
 $pergunta[4]="pregunta 4?";
